@@ -1,0 +1,18 @@
+Package: python3.13
+Architecture: arm
+Installed-Size: 159885
+Maintainer: @MrRare2
+Version: 3.13.0a4
+Homepage: https://python.org/
+Breaks: python2 (<= 2.7.15), python-dev
+Depends: gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
+Replaces: python-dev
+Provides: python3.13
+Description: Python 3 programming language intended to enable clear programs (version 3.13 alpha 4)
+Filename: dists/termux/extras/binary-arm/python_3.13.0a4_arm.deb
+Size: 33279640
+MD5Sum: 02b092160e88eb36877f95d9d5670f0f
+SHA1: d527f3b16adbab2374b7683e49d8d6abf0899d50
+SHA256: 99f39c9d43c572421b8660d9c0ff03cffd36da630b413c2150af3d3cd8949b30
+SHA512: 3442306168e4abe3ab5b7daf57c3877d3fef563c51fba7267d947aa41d71be42dfedd83899d8b4c6862763fee9369dec3df8512949324a83e4bd5e5400b6fe78
+
