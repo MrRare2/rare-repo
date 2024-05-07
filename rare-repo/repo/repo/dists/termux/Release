@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: arm
+Description: termux repository
+Suite: termux
+Date: Tue, 07 May 2024 11:11:32 UTC
+Components: extras
+MD5Sum:
+ 59e2b69a17b6016350a440bebf2f5dbf 1833 extras/binary-arm/Packages
+ 2724490d5fb7f91baeafcdf00b4fc03d 1064 extras/binary-arm/Packages.xz
+ 198d8ae465f9a6695be0f4132fcf4a1a 424238 extras/Contents-arm
+ 128a8513753e6ba83cf6a7a4494fa864 21664 extras/Contents-arm.xz
+SHA1:
+ 89851fdf16815537c876ca4d9520d13bc42eaee2 1833 extras/binary-arm/Packages
+ 057d2a46118b4088a2af693ff3cf52f3cc1381ec 1064 extras/binary-arm/Packages.xz
+ 9a7f954096cfe1d7a714c1631e804c27854c988e 424238 extras/Contents-arm
+ dfea96b80972ba1625ef404e0842916b33effe21 21664 extras/Contents-arm.xz
+SHA256:
+ b5c83aaed12c8779c93a568c52fcf94fce0adddcbe3393b8477a050fb5a67be8 1833 extras/binary-arm/Packages
+ 3d7a67d6cacce9ba43a791f6bee92176f7acc07c80cd61cf8e84b56b22016606 1064 extras/binary-arm/Packages.xz
+ 1630b3b1d24c3bf93fd6d5f5c3eb72ae2cdb1069c7d907754523bdc75a558d72 424238 extras/Contents-arm
+ ad6bd0ce3dce06f1273317cc1cf8f23ee1451054071e82d5855d408290d2af8a 21664 extras/Contents-arm.xz
+SHA512:
+ d6235519cea426c221b103a6526a09dbc307a225b3d39ac8d40be750ad9faf797668f076d642633c52534302fe9f4b7696b60ad06b21c3d8d66dcb154727c3df 1833 extras/binary-arm/Packages
+ 6c25d49d477d6449047a54c8b5cc44c80cd2eafdec916991a1e4cd5c6556ab49837508de452ec95c2faddd4748515f2277b92ec69a3281b11907f643435e2284 1064 extras/binary-arm/Packages.xz
+ 7957dcbf43bcc87688ecbb0307f8727d6fed5a2d1b1053cb46f9411db8ece92bf5248aed7330f1773d790bbca0833a8c19811717bd803613d25584c1acc8dcfe 424238 extras/Contents-arm
+ b46e2761dfe446c1deb84b65d3f1b8f25bcddccf954884ef63c7b09229c43e32bf80f9d5e0cead68543ccbb98104c4be8916cf890806846f4648a6421253b830 21664 extras/Contents-arm.xz

@@ -1,0 +1,38 @@
+Package: apt
+Architecture: arm
+Installed-Size: 2828
+Maintainer: @termux
+Version: 2.9.2
+Homepage: https://packages.debian.org/apt
+Depends: coreutils, dpkg, findutils, gpgv, grep, libandroid-glob, libbz2, libc++, libcurl, libgnutls, liblz4, liblzma, sed, termux-keyring, termux-licenses, xxhash, zlib, zstd
+Essential: yes
+Conflicts: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Replaces: apt-transport-https, libapt-pkg, unstable-repo, game-repo, science-repo
+Provides: unstable-repo, game-repo, science-repo
+Suggests: gnupg
+Description: Front-end for the dpkg package manager
+Filename: dists/termux/extras/binary-arm/apt_2.9.2_arm.deb
+Size: 977960
+MD5Sum: 380a3e5dbb3111f597817c258746187a
+SHA1: 4517d718fc44f85281a872efb70171d10a471f24
+SHA256: f7ff4fec04fb07ce79932f0e667474523d7ce0787a04a4dca1068645c9430f2a
+SHA512: 7ebff5d3c5932f7b485d065626839aac8466d56d08c6b3f7224075c4d4fb180fa42a1a22c91b6038347b3b135906c4b6e773caa8e7505bc4e71045fbcab97feb
+
+Package: python3.13
+Architecture: arm
+Installed-Size: 159885
+Maintainer: @MrRare2
+Version: 3.13.0a4
+Homepage: https://python.org/
+Breaks: python2 (<= 2.7.15), python-dev
+Depends: gdbm, libandroid-posix-semaphore, libandroid-support, libbz2, libcrypt, libexpat, libffi, liblzma, libsqlite, ncurses, ncurses-ui-libs, openssl, readline, zlib
+Replaces: python-dev
+Provides: python3.13
+Description: Python 3 programming language intended to enable clear programs (version 3.13 alpha 4)
+Filename: dists/termux/extras/binary-arm/python_3.13.0a4_arm.deb
+Size: 33279640
+MD5Sum: 02b092160e88eb36877f95d9d5670f0f
+SHA1: d527f3b16adbab2374b7683e49d8d6abf0899d50
+SHA256: 99f39c9d43c572421b8660d9c0ff03cffd36da630b413c2150af3d3cd8949b30
+SHA512: 3442306168e4abe3ab5b7daf57c3877d3fef563c51fba7267d947aa41d71be42dfedd83899d8b4c6862763fee9369dec3df8512949324a83e4bd5e5400b6fe78
+
